@@ -8,4 +8,4 @@ ScrapyProject,,including .............
 
 
 持续更新，这里都是scrapy的爬虫项目
-本人QQ1252452801.
+本人QQ.
